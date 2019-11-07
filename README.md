@@ -9,9 +9,9 @@ This repo contains house rules for my regular DnD 5e group.
 
 ## Rules
 
-### Stacking Proficiency
+### Stacking Proficiency (on Tools and Instruments)
 
-If a (player) character has **two proficiencies** for specific dice roll, they get their proficiency bonus just once (as per the normal PHB rules), but they additionally get **advantage**.
+If a (player) character has **two proficiencies** for specific **tool or instrument** roll, they get their proficiency bonus just once (as per the normal PHB rules), but they additionally get **advantage**.
 
 Examples:
   - A character proficient in *Thieves Tools* and *Sleight of Hand* will get **advantage** if picking a lock.
