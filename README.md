@@ -3,10 +3,14 @@ This repo contains house rules for my regular DnD 5e group.
 
 ## Campaigns
 
-| Rule Name               | Chultan Imprisonment | Moonshae Isles  |
-|-------------------------|----------------------|-----------------|
-| Stacking Proficiency    | YES                  | ?               |
-| Additional Proficiency  | YES                  | NO              |
+| Rule Name                  | Chultan Imprisonment | Moonshae Isles  |
+|----------------------------|----------------------|-----------------|
+| Stacking Proficiency       | YES                  | YES             |
+| Additional Proficiency     | YES                  | NO              |
+| Sinking                    | ?                    | YES             |
+| Saving a drowning creature | ?                    | YES             |
+| Lucky Feat                 | ?                    | YES             |
+| True Strike                | ?                    | YES             |
 
 ## Rules
 
@@ -27,3 +31,31 @@ Either one of the pirate weapons or another flavored proficiency in weapons, too
 These ranged from the tools used in the sailing rules from Ghost of Saltmarch, over instruments, which could be used to amuse the ships crew, up to tools and weapons, which had the same pirate or naval flavor.
 
 Examples: Viol, Dragon Pistol, Carpenting Tools and Longbow.
+
+### Sinking
+
+If an swimming creature falls unconscious, it starts sinking. It sinks closer to the bottom of the water at the end of each of its turns. Its speed is determined by its armor type:
+
+| Armor Type   | Speed  |
+|--------------|--------|
+| light armor  | 5 ft.  |
+| medium armor | 10 ft. |
+| heavy armor  | 15 ft. |
+
+### Saving a drowning creature
+
+To save an unconscious creature that is drowning, you must bring it back to the surface. To grab the creature you must make a Stregth(Athletics) Skill Check. The DC depends on the armor type and scales with the size of the frowning creature. For each size category smaller than Medium subtract 2 and for each size category larger than Medium add 2.
+
+| Armor Type   | DC |
+|--------------|----|
+| light armor  | 13 |
+| medium armor | 14 |
+| heavy armor  | 15 |
+
+### Lucky Feat
+
+If you use the Lucky Feat while rolling with disadvantage, you gain a **third roll**, but you **must take** it no matter the result. You **can not** take either of the rolls done with disadvantage.
+
+### True Strike
+
+**No concentration.** In addition to gaining advantage on your next weapon attack you also gain 1d6 damage of the type of out weapon on that attack if it hits.
