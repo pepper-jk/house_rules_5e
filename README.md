@@ -44,10 +44,11 @@ If an swimming creature falls unconscious, it starts sinking. It sinks closer to
 
 ### Saving a drowning creature
 
-To save an unconscious creature that is drowning, you must bring it back to the surface. To grab the creature you must make a Stregth(Athletics) Skill Check. The DC depends on the armor type and scales with the size of the frowning creature. For each size category smaller than Medium subtract 2 and for each size category larger than Medium add 2.
+To save an unconscious creature that is drowning, you must bring it back to the surface. To grab the creature you must make a Stregth(Athletics) Skill Check. The DC depends on the armor type and scales with the size of the drowning creature. For each size category smaller than Medium subtract 2 and for each size category larger than Medium add 2.
 
 | Armor Type   | DC |
 |--------------|----|
+| no armor     | 12 |
 | light armor  | 13 |
 | medium armor | 14 |
 | heavy armor  | 15 |
