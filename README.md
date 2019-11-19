@@ -7,9 +7,9 @@ This repo contains house rules for my regular DnD 5e group.
 |----------------------------|----------------------|-----------------|
 | Stacking Proficiency       | YES                  | YES             |
 | Additional Proficiency     | YES                  | NO              |
-| Sinking                    | ?                    | YES             |
-| Saving a drowning creature | ?                    | YES             |
-| Lucky Feat                 | ?                    | YES             |
+| Sinking                    | YES                  | YES             |
+| Saving a drowning creature | YES                  | YES             |
+| Lucky Feat                 | YES                  | YES             |
 | True Strike                | ?                    | YES             |
 
 ## Rules
