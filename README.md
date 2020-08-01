@@ -60,3 +60,13 @@ If you use the Lucky Feat while rolling with disadvantage, you gain a **third ro
 ### True Strike
 
 **No concentration.** In addition to gaining advantage on your next weapon attack you also gain 1d6 damage of the type of out weapon on that attack if it hits.
+
+### Level Up
+
+Each time a player character gains a level, they may change one of their spells (including cantrips), battle master maneuvers or an option from a similar mechanic.
+
+### Cardic Inspiration
+
+> inspired by Arcane Arcade
+
+Each session each player may draw from the deck of cardic inspiration and add its value to a ability check, saving throw or attack roll, either of themselves or of a fellow player.
