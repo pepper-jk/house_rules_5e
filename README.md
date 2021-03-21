@@ -70,3 +70,6 @@ Each time a player character gains a level, they may change one of their spells 
 > inspired by Arcane Arcade
 
 Each session each player may draw from the deck of cardic inspiration and add its value to a ability check, saving throw or attack roll, either of themselves or of a fellow player.
+
+Any image card has the value 10 and a number just has the value it represents.
+An Ace counts as the value 20, but overwrites your roll.
