@@ -3,14 +3,14 @@ This repo contains house rules for my regular DnD 5e group.
 
 ## Campaigns
 
-| Rule Name                  | Chult  | Moonshae Isles  |
-|----------------------------|--------|-----------------|
-| Stacking Proficiency       | YES    | YES             |
-| Additional Proficiency     | YES    | NO              |
-| Sinking                    | YES    | YES             |
-| Saving a drowning creature | YES    | YES             |
-| Lucky Feat                 | YES    | YES             |
-| True Strike                | ?      | YES             |
+| Rule Name                  | Chult  | One-Shots | Moonshae Isles  |
+|----------------------------|--------|-----------|-----------------|
+| Stacking Proficiency       | YES    |           | YES             |
+| Additional Proficiency     | YES    |           | NO              |
+| Sinking                    | YES    |           | YES             |
+| Saving a drowning creature | YES    |           | YES             |
+| Lucky Feat                 | YES    |           | YES             |
+| True Strike                | ?      |           | YES             |
 | Level Up                   | YES
 | Cardic Inspiration         | YES
 | Warlock Spell Storing      | YES
