@@ -73,3 +73,11 @@ Each session each player may draw from the deck of cardic inspiration and add it
 
 Any image card has the value 10 and a number just has the value it represents.
 An Ace counts as the value 20, but overwrites your roll.
+
+### Warlock Spell Storing
+
+If a warlock casts a spell into a ring of spell storing, they can try to store the spell at base level.
+However, they need to succeed an Intelligence (Arcana) check to do so.
+The DC for the spell is 10 + the level at which they would cast the spell - the base level of the spell.
+
+If a warlock casts a spell in this way, they still expend a spell slot as they would normally.
