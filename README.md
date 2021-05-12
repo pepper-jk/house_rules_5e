@@ -14,6 +14,7 @@ This repo contains house rules for my regular DnD 5e group.
 | Level Up                   | YES
 | Cardic Inspiration         | YES
 | Warlock Spell Storing      | YES
+| Crunchy Crits              |
 
 ## Rules
 
@@ -84,3 +85,7 @@ However, they need to succeed an Intelligence (Arcana) check to do so.
 The DC for the spell is 10 + the level at which they would cast the spell - the base level of the spell.
 
 If a warlock casts a spell in this way, they still expend a spell slot as they would normally.
+
+### Crunchy Crits
+
+When scoring a critical hit, you add max damage to your roll instead of rolling the dice double.
