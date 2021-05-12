@@ -5,16 +5,16 @@ This repo contains house rules for my regular DnD 5e group.
 
 | Rule Name                  | Chult  | One-Shots | Moonshae Isles  |
 |----------------------------|--------|-----------|-----------------|
-| Stacking Proficiency       | YES    |           | YES             |
-| Additional Proficiency     | YES    |           | NO              |
-| Sinking                    | YES    |           | YES             |
-| Saving a drowning creature | YES    |           | YES             |
-| Lucky Feat                 | YES    |           | YES             |
-| True Strike                | ?      |           | YES             |
-| Level Up                   | YES
-| Cardic Inspiration         | YES
-| Warlock Spell Storing      | YES
-| Crunchy Crits              |
+| Stacking Proficiency       | YES    | YES       | YES             |
+| Additional Proficiency     | YES    | -         | NO              |
+| Sinking                    | YES    | NO        | YES             |
+| Saving a drowning creature | YES    | NO        | YES             |
+| Lucky Feat                 | YES    | YES       | YES             |
+| True Strike                | ?      | MAYBE     | YES             |
+| Level Up                   | YES    | YES
+| Cardic Inspiration         | YES    | NO
+| Warlock Spell Storing      | YES    | YES
+| Crunchy Crits              |        | NO
 
 ## Rules
 
