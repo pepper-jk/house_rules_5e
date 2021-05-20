@@ -8,7 +8,7 @@ This repo contains house rules for my regular DnD 5e group.
 | Additional Proficiency     | YES    | -         | NO              |
 | Cardic Inspiration         | YES    | NO
 | Crunchy Crits              |        | NO
-| Level Up                   | YES    | YES
+| Fluid Level Up             | YES    | YES
 | Lucky Feat                 | YES    | YES       | YES             |
 | Saving a drowning creature | YES    | NO        | YES             |
 | Sinking                    | YES    | NO        | YES             |
@@ -40,7 +40,7 @@ An Ace counts as the value 20, but overwrites your roll.
 
 When scoring a critical hit, you add max damage to your roll instead of rolling the dice double.
 
-### Level Up
+### Fluid Level Up
 
 Each time a player character gains a level, they may change one of their spells (including cantrips), battle master maneuvers or an option from a similar mechanic.
 
